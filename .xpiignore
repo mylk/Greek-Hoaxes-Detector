@@ -1,0 +1,9 @@
+.git/*
+.project
+.settings/*
+.xpiignore
+META-INF/*
+.gitignore
+
+*.xpi
+Makefile
